@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @axshyu
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate on group projects
 - 📫 How to reach me georgitajr@gmail.com, Insta: @axshyu
 
